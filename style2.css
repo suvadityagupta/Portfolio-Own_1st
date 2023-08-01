@@ -1,0 +1,130 @@
+*{
+    /* background-color: #d62976; */
+    /* color: rgb(255, 255, 255); */
+    font-family: 'League Spartan', sans-serif;
+}
+header { 
+    background-color: #000000;
+    color: #fff;
+    /* margin: 10px; */
+    padding: 10px;
+}
+body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    line-height: 1.6;
+}
+
+.header{
+    /* background: -webkit-linear-gradient(#b02727);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; */
+    color: #ffffff;
+    text-align: left ;
+    font-size: 70px;
+}
+header h1 {
+    margin: 5px;
+}
+/* nav ul {
+    list-style: none;
+} */
+nav ul li a {
+    color: #83EEFF;
+    font-size: 30px;
+    text-decoration: none;
+}
+nav ul li {
+    display: inline-block;
+    margin-right: 20px; 
+}
+
+section {
+    padding: 80px 0;
+    font-size: 30px;
+    text-align: center;
+}
+/* ----------Software Developer-------------------------- */
+section#sd {
+    background-color: #fff942;
+    /* background-image: linear-gradient(rgb(255, 145, 145), rgb(3, 179, 8)); */
+    font-size: 45px;
+}
+.skill{
+    font-size: 30px;
+}
+/* ------------------About me----------------- */
+section#about{
+    background-color: #69fcf5;
+    /* background-image: linear-gradient(rgb(3, 179, 8), rgb(21, 18, 18)); */
+    color: #000000;
+    font-size: 30px;
+}
+/* ---------------Projects----------------------- */
+section#projects {
+    background-color: #6bff97;
+    /* background-image: linear-gradient(rgb(21, 18, 18), rgb(3, 179, 8)); */
+    color: #000000;
+    font-size: 30px;
+}
+.projects ul li{
+    display: inline-block;
+    margin-right: 25px;
+    
+}
+/* ------------------connections------------------------ */
+section#connection {
+    /* background-image: linear-gradient(rgb(3, 179, 8), rgb(21, 18, 18)); */
+    background-color: #000000;
+    color: #ffffff;
+    font-size: 25px;
+}
+.icons {
+    font-size: 30px;
+    text-align: center;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    /* width: 30px; */
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+  }
+.fa:hover {
+    opacity: 0.7;
+  }
+  
+.fa-linkedin {
+    color: #0077b5;
+  }
+.fa-github {
+    color: rgba(255, 255, 255, 0.832);
+  }
+.fa-instagram {
+    background: -webkit-linear-gradient(#4f5bd5, #962fbf, #d62976, #fa7e1e, #feda75);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+.fa-facebook {
+    color: #3b5998;
+  }
+/* --------------------------------------------- */
+#footer {
+    text-align: center;
+    /* background-image: linear-gradient(red, yellow); */
+    background-color: #000000;
+    color: #fdffff;
+    font-size: 20px;
+}
+
+  
+  /*hover effect*/
+  
+  
+  /* Facebook */
+  
+
